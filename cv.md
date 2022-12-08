@@ -4,8 +4,7 @@
 |CONTACTS:||
 | ---:|:--- |
 | Location:| Moscow, Russia |
-|  Discord:| MifDX#837 |
-| Telegram:| [MifDX](https://t.me/mifdx)|
+|  Discord:| MifDX#8375 |
 |    Email:| [mifdxr@gmail.com](mailto:mifdxr@gmail.com)|
 
 ---
