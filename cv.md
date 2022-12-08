@@ -1,4 +1,4 @@
-![photo](https://github.com/MifDX/test1/blob/master/20150729_200.jpg?raw=true)
+![photo](https://github.com/MifDX/rsschool-cv/blob/gh-pages/assets/img/photo.jpg?raw=true)
 # Akimov Ruslan
 
 |CONTACTS:||
