@@ -4,7 +4,7 @@
 |CONTACTS:||
 | ---:|:--- |
 | Location:| Moscow, Russia |
-|  Discord:| MifDX#8375 |
+|  Discord:| MifDX |
 |    Email:| [mifdxr@gmail.com](mailto:mifdxr@gmail.com)|
 
 ---
@@ -71,6 +71,6 @@ getRandomElement ();
 
 ## English
 
-A2 (some tests show B1)
+B1
 
 ---
