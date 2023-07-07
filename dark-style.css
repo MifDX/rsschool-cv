@@ -89,6 +89,7 @@ header {
   color: rgb(175, 208, 157);
   background-color: rgb(92, 92, 92);
   border-color: rgb(175, 208, 157);
+  border-radius: 5px;
   float: right;
 }
 
