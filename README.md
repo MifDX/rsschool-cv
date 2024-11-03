@@ -1,1 +1,1 @@
-https://MifDX.github.io/rsschool-cv/
+https://mifdx.github.io/rsschool-cv/cv
