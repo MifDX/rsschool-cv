@@ -32,3 +32,24 @@ Now my goal is to take the course of the RSSchool, learn to be a Front-end devel
 [^2]: did not use all the functionality
 
 ---
+
+## Code examples
+
+```javascript
+let phrases = [
+  'Practice makes perfect.',
+  'Never put off until tomorrow what you can do today.',
+  'If a job is worth doing it is worth doing well.',
+  'A cat in gloves catches no mice.',
+  'Actions speak louder than words.',
+  'Haste makes waste.'
+];
+function getRandomElement () {
+let randIndex = Math.floor(Math.random() * phrases.length);
+console.log(randIndex);
+console.log(phrases[randIndex]);
+}
+getRandomElement ();
+```
+
+---
