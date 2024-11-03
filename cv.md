@@ -53,3 +53,24 @@ getRandomElement ();
 ```
 
 ---
+
+## Education
+
+* Russian Institute of Management
+* SoloLearn courses: HTML, CSS, JS
+* HTMLbook.ru courses: HTML, CSS
+* Stepik courses: HTML, CSS, JS for beginners
+* Yandex.practicum: HTML, CSS, JavaScript introductory module
+* js.coderslang.com: JavaScript
+* learn.javascript.ru: JavaScript
+* Google Digital Garage: internet marketing basics
+* Doulingo: English language
+* Many other courses and tutorials
+
+---
+
+## English
+
+B1
+
+---
