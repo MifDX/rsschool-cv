@@ -17,3 +17,18 @@ I've been into IT since I first saw a computer. I am constantly engaged in self-
 Now my goal is to take the course of the RSSchool, learn to be a Front-end developer (possibly a full stack) in order to find a decent job or develop my own applications and integrations. I hope this will radically change my life and the life of my family for the better.
 
 ---
+
+## Skills
+
+* HTML [^1]
+* CSS [^1]
+* JavaScript [^1]
+* UX [^1], UI [^1]
+* VSCode [^1], Github Desktop [^1]
+* Gimp [^2], Adobe Photoshop [^2]
+* Adobe Premier [^2], Sony Vegas [^2]
+
+[^1]: basic knowledge or no work experience  
+[^2]: did not use all the functionality
+
+---
